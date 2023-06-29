@@ -2,7 +2,7 @@
 
 *Introduction*
 
-Here this the python code for adjusting volume by using hand gesture. By stretch 2 fingers (point and thumb respectively), you can volume up and volume down the system's volume.
+Here this the python code for adjusting volume by using hand gesture. By stretching 2 fingers (point and thumb respectively), you can volume up and volume down the system's volume.
 
 *Illustration*
 
