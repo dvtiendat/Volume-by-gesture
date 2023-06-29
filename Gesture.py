@@ -38,8 +38,8 @@ while True:
         else:
             pyautogui.press("volumedown")
 
-    cv2.imshow("Iron man technology", image)
-    cv2.moveWindow("Iron man technology", 500, 400)  
+    cv2.imshow("Using gesture to adjust volume", image)
+    cv2.moveWindow("Using gesture to adjust volume", 500, 400)  
     key = cv2.waitKey(10)
     if key == 27:
         break
